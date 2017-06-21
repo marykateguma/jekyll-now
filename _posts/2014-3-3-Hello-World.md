@@ -2,11 +2,15 @@
 layout: post
 title: What does this do?
 ---
-#Practicing my headings
-##Things I like
-1. Making numbered lists
-1. Reading numbered lists
-1. When I know how to use computers
+##Heading
+###Making lists
+1.Numbered lists
+2.Also numbered lists
+3.Practicing numbered lists
+
+**Making my text bold**
+_italics_
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
