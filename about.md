@@ -7,7 +7,7 @@ Birthday: November 29
 ---
 # {{ page.title }}
 
-{{ page.favorite-color }}
+{{ page.Favorite-color }}
 Some information about you!
 
 ### More Information
