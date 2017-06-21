@@ -2,8 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+Favorite-color: purple
+Birthday: November 29
 ---
-
+# {{ page.title }}
+# {{ page.favorite-animal }}
 Some information about you!
 
 ### More Information
