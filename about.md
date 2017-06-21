@@ -6,7 +6,8 @@ Favorite-color: purple
 Birthday: November 29
 ---
 # {{ page.title }}
-# {{ page.favorite-animal }}
+
+{{ page.favorite-animal }}
 Some information about you!
 
 ### More Information
